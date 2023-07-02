@@ -1,1 +1,1 @@
-import { a_function } from './product.js';
+import { Product } from './product.js';
